@@ -9,7 +9,10 @@ title = "Anemite"
 summary = "LearnR tutorial for the [OHSU Data Science Institute](https://ohsulibrary-datascienceinstitute.github.io/) introducing students to concepts of categorical data analysis. Part of the [DSIExplore](https://github.com/laderast/DSIExplore) package authored with Jessica Minnier."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "logo.png"
+# image_preview = "logo.png"
+header:
+  caption: ""
+  image: "logo.png"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
