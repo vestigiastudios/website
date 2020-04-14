@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Vestigia Studios
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Indie games Spanish developer
 
 # Organizations/Affiliations
 organizations:
