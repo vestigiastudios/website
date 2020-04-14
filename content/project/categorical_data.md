@@ -9,14 +9,14 @@ title = "Anemite"
 summary = "LearnR tutorial for the [OHSU Data Science Institute](https://ohsulibrary-datascienceinstitute.github.io/) introducing students to concepts of categorical data analysis. Part of the [DSIExplore](https://github.com/laderast/DSIExplore) package authored with Jessica Minnier."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "avatar.jpg"
+image_preview = "logo.png"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
 tags = ["space", "puzzle"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://tladeras.shinyapps.io/categoricalData/"
+# external_link = "https://tladeras.shinyapps.io/categoricalData/"
 
 # Does the project detail page use math formatting?
 math = false
