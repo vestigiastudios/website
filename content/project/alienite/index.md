@@ -3,7 +3,7 @@
 date = "2020-04-14"
 
 # Project title.
-title = "Anemite"
+title = "Alienite"
 
 # Project summary to display on homepage.
 summary = "LearnR tutorial for the [OHSU Data Science Institute](https://ohsulibrary-datascienceinstitute.github.io/) introducing students to concepts of categorical data analysis. Part of the [DSIExplore](https://github.com/laderast/DSIExplore) package authored with Jessica Minnier."
