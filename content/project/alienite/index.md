@@ -10,9 +10,7 @@ summary = "LearnR tutorial for the [OHSU Data Science Institute](https://ohsulib
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 # image_preview = "logo.png"
-header:
-  caption: ""
-  image: "logo.png"
+
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
