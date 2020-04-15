@@ -6,15 +6,7 @@ date = "2020-04-14"
 title = "Alienite"
 
 # Project summary to display on homepage.
-summary = "Alienite is a space-based puzzle video game... but it's not like the normal puzzle games you're used to.
-
-In this game YOU are inside the puzzle.
-
-YOU move the pieces by hitting them.
-
-YOU place the pieces to fit by climbing on top of them.
-
-And if this were not enough, evil aliens will try to not achieve your goal."
+summary = "Alienite is a space-based puzzle video game... but it's not like the normal puzzle games you're used to. In this game YOU are inside the puzzle. YOU move the pieces by hitting them. YOU place the pieces to fit by climbing on top of them. And if this were not enough, evil aliens will try to not achieve your goal."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 # image_preview = "logo.png"
