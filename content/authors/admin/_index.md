@@ -14,7 +14,7 @@ role: Indie games Spanish developer
 
 # Organizations/Affiliations
 organizations:
-- name: *The game in your veins*
+- name: The game in your veins
   url: 
 
 # Short bio (displayed in user profile at end of posts)
