@@ -70,6 +70,4 @@ user_groups:
 - Visitors
 ---
 
-Insert About us here...
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+We are two Spanish brothers who love video games. We grew up with the Game boy and the supernintendo. We love retro and old scholl. We want to give back to the world our passion for games and make them feel emotions.
