@@ -18,7 +18,7 @@ organizations:
   url: 
 
 # Short bio (displayed in user profile at end of posts)
-bio:Indie games Spanish developer
+bio: Indie games Spanish developer
 
 # interests:
 # - Artificial Intelligence
