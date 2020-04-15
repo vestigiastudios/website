@@ -14,7 +14,7 @@ role: Indie games Spanish developer
 
 # Organizations/Affiliations
 organizations:
-- name: Spain2
+- name: Spain
   url: 
 
 # Short bio (displayed in user profile at end of posts)
