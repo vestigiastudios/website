@@ -70,4 +70,4 @@ user_groups:
 - Visitors
 ---
 
-We are two Spanish brothers who love video games. We grew up with the Game boy and the supernintendo. We love retro and old scholl. We want to give back to the world our passion for games and make them feel emotions.
+Abcde...
