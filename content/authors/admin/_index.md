@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Indie games developer
+role: Indie games Spanish developer
 
 # Organizations/Affiliations
 organizations:
-- name: Spain
+- name: ""
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -44,7 +44,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: "mailto:vestigiastudios@gmail.com".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/vestigiastudios
