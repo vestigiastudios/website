@@ -18,7 +18,7 @@ tags = ["space", "puzzle"]
 
 # Optional external URL for project (replaces project detail page).
 #external_link = "alienite/"
-url  = "alienite/"
+link  = "alienite/"
 
 # Does the project detail page use math formatting?
 math = false
