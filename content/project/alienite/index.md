@@ -17,7 +17,7 @@ summary = "Alienite is a space-based puzzle video game... but it's not like the 
 tags = ["space", "puzzle"]
 
 # Optional external URL for project (replaces project detail page).
-# external_link = "https://tladeras.shinyapps.io/categoricalData/"
+external_link = "alienite/"
 
 # Does the project detail page use math formatting?
 math = false
