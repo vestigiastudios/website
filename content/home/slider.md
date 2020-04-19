@@ -58,7 +58,7 @@ height = ""
   
   # Call to action button (optional).
   cta_label = "Leave suggestion"
-  cta_url = "https://alienite.netlify.app/"
+  cta_url = "#contact"
   cta_icon_pack = "fas"
   cta_icon = "envelope-open-text"
 
