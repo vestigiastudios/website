@@ -27,7 +27,7 @@ height = ""
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
   # Call to action button (optional).
-  cta_label = "KNOW MORE"
+  cta_label = "Know more"
   cta_url = "https://alienite.netlify.app/"
   cta_icon_pack = "fas"
   cta_icon = "user-astronaut"
