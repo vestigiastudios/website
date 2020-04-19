@@ -29,7 +29,7 @@ height = ""
   # Call to action button (optional).
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
-  cta_label = "Alienite"
+  cta_label = "KNOW MORE"
   cta_url = "https://alienite.netlify.app/"
   cta_icon_pack = "fas"
   cta_icon = "user-astronaut"
