@@ -17,7 +17,7 @@ height = ""
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
   title = "Alienite"
-  content = "Know of first game! :smile:"
+  content = "Know our first game! Alienite is a puzzle game where YOU are INSIDE the puzzle."
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
@@ -34,7 +34,7 @@ height = ""
 
 [[item]]
   title = "Twitter"
-  content = "I am left aligned :smile:"
+  content = "Follow us on twitter to be aware of the latest advances in our games."
   align = "center"
 
   overlay_color = "#555"  # An HTML color value.
@@ -49,7 +49,7 @@ height = ""
   
   [[item]]
   title = "Suggestions"
-  content = "I am left aligned :smile:"
+  content = "We are interested in your opinion. If you have any suggestion or comment about our website or our games, let us know."
   align = "center"
 
   overlay_color = "#555"  # An HTML color value.
