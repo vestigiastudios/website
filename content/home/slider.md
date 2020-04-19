@@ -32,7 +32,7 @@ height = ""
   cta_label = "Alienite"
   cta_url = "https://alienite.netlify.app/"
   cta_icon_pack = "fas"
-  cta_icon = "graduation-cap"
+  cta_icon = "user-astronaut"
 
 [[item]]
   title = "Twitter"
