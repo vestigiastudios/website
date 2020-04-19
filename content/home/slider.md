@@ -44,8 +44,8 @@ height = ""
   # Call to action button (optional).
   cta_label = "Follow"
   cta_url = "https://twitter.com/vestigiastudios"
-  cta_icon_pack = "fas"
-  cta_icon = "hashtag"
+  cta_icon_pack = "fab"
+  cta_icon = "twitter"
   
   [[item]]
   title = "Suggestions"
