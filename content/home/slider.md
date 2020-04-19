@@ -45,7 +45,7 @@ height = ""
   cta_label = "Follow"
   cta_url = "https://twitter.com/vestigiastudios"
   cta_icon_pack = "fas"
-  cta_icon = "twitter"
+  cta_icon = "twitter-square"
   
   [[item]]
   title = "Suggestions"
