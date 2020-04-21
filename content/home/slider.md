@@ -17,7 +17,7 @@ height = ""
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
   title = "Alienite"
-  content = "Know our first game! Alienite is a puzzle game where YOU are INSIDE the puzzle."
+  content = "Know our first game! Alienite is a puzzle game in which YOU are INSIDE the puzzle."
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
@@ -33,8 +33,8 @@ height = ""
   cta_icon = "user-astronaut"
 
 [[item]]
-  title = "Twitter"
-  content = "Follow us on twitter to be aware of the latest advances in our games."
+  title = "Follow us on Twitter"
+  content = "Follow us on Twitter to be aware of the latest advances in our games."
   align = "center"
 
   overlay_color = "#555"  # An HTML color value.
