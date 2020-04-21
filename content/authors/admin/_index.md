@@ -70,12 +70,6 @@ email: "vestigiastudios@gmail.com"
 # - Visitors
 ---
 
-We are two Spanish brothers who love video games. We grew up in the Game Boy and Super Nintendo era.
-Since then we have not stopped playing hundreds of games both on different consoles and on a computer.
-We continue to enjoy like when we were children.
+We are two Spanish brothers who love video games. We grew up in the Game Boy and Super Nintendo era. Since then, we have not stopped playing hundreds of games both on different consoles and computers. We continue to enjoy them like when we were children.
 
-Vestigia Studios was born with the aim of expressing our enthusiasm for video games in our own works.
-Our origins make us passionate about old school and retro games. We look for classic genres but incorporating
-novel touches that have not been considered to date or treated as we think it should be.
-We want to contribute our grain of sand to the world of videogames and return our passion for games and, ultimately, make emotions feel
-that we have felt so many times when playing.
+Vestigia Studios is born with the aim of expressing our enthusiasm for video games in our own works. Our origins make we are passionate about old school and retro games. We look for classic genres but incorporating novel nuances that have not been considered to date or have not been treated as we think they should be. We want to contribute our grain of sand to the video games world, expanding our passion for games and, last but not least, making you feel those emotions we have felt so many times when playing.
